@@ -1,1 +1,752 @@
 
+Comic Craft – Project Design Phase
+
+Since Comic Craft is a small project, the design phase can be kept simple and focused on the main features rather than including complex systems.
+
+1. Purpose of the Design Phase
+
+The Project Design Phase converts the requirements identified earlier into a simple design for how Comic Craft will look and work.
+
+The main goals are to:
+
+Design the basic user interface.
+
+Decide the main screens.
+
+Plan how users create comics.
+
+Decide how comic elements are arranged.
+
+Choose the basic technology and database structure.
+
+Create a simple prototype or wireframe.
+
+
+
+---
+
+2. Basic System Design
+
+Comic Craft can have a simple structure:
+
+User → Comic Craft Interface → Comic Editor → Save/Export
+
+The user enters the application, creates a comic using the editor, adds characters and dialogue, and then saves or exports the completed comic.
+
+
+---
+
+3. Main Screens
+
+For a small Comic Craft project, the system can contain only a few main screens:
+
+Home Page
+
+Comic Craft title/logo
+
+Short introduction
+
+Create Comic button
+
+My Comics button
+
+
+Comic Creation Page
+
+Comic title
+
+Select template/layout
+
+Start creating the comic
+
+
+Comic Editor
+
+The main working area where users can:
+
+Add panels
+
+Add characters
+
+Add backgrounds
+
+Add speech bubbles
+
+Add text
+
+Move and resize elements
+
+Save the comic
+
+
+My Comics
+
+Shows previously saved comics.
+
+Preview/Export
+
+Allows the user to view the finished comic and download it.
+
+
+---
+
+4. User Interface Design
+
+The interface should be simple and beginner-friendly.
+
+A basic editor layout could be:
+
+Left side:
+Characters | Backgrounds | Speech Bubbles
+
+Center:
+Comic canvas/panels
+
+Right side:
+Editing options
+
+Bottom:
+Save | Preview | Export
+
+The design should avoid unnecessary buttons and complicated menus.
+
+
+---
+
+5. Comic Layout Design
+
+A simple comic could contain 3–6 panels.
+
+Example:
+
+Panel 1	Panel 2
+
+Character + Background	Character + Dialogue
+Panel 3	Panel 4
+
+
+Users can add characters and speech bubbles to each panel.
+
+
+---
+
+6. Basic Database Design
+
+Since this is a small project, only a few tables may be required.
+
+User
+
+User ID
+
+Name
+
+Email
+
+Password
+
+
+Comic
+
+Comic ID
+
+User ID
+
+Comic Title
+
+Comic Content
+
+Created Date
+
+
+If separate storage is needed:
+
+Assets
+
+Asset ID
+
+Asset Name
+
+Asset Type
+
+File Path
+
+
+This is sufficient for a basic version.
+
+
+---
+
+7. Technology Design
+
+A simple technology stack could be:
+
+Frontend:
+
+HTML
+
+CSS
+
+JavaScript
+
+
+Backend:
+
+PHP / Node.js / Python
+
+
+Database:
+
+MySQL
+
+
+Design/Prototype:
+
+Figma or simple wireframes
+
+
+The exact technology can depend on what is being taught or required for the project.
+
+
+---
+
+8. Basic User Flow
+
+Open Comic Craft
+↓
+Create Comic
+↓
+Choose Layout
+↓
+Add Characters & Backgrounds
+↓
+Add Dialogue/Text
+↓
+Edit Panels
+↓
+Preview Comic
+↓
+Save / Export
+
+
+---
+
+9. Design Deliverables
+
+At the end of the Project Design Phase, you can prepare:
+
+Simple system design
+
+Main screen designs
+
+Comic editor layout
+
+Basic database design
+
+User flow diagram
+
+Simple prototype/wireframe
+
+
+Final Outcome
+
+The Comic Craft Project Design Phase creates a simple blueprint for the application. It defines how the screens will look, how users will move through the system, and how the comic creation process will work before actual development begins.Comic Craft – Project Design Phase
+
+Since Comic Craft is a small project, the design phase can be kept simple and focused on the main features rather than including complex systems.
+
+1. Purpose of the Design Phase
+
+The Project Design Phase converts the requirements identified earlier into a simple design for how Comic Craft will look and work.
+
+The main goals are to:
+
+Design the basic user interface.
+
+Decide the main screens.
+
+Plan how users create comics.
+
+Decide how comic elements are arranged.
+
+Choose the basic technology and database structure.
+
+Create a simple prototype or wireframe.
+
+
+
+---
+
+2. Basic System Design
+
+Comic Craft can have a simple structure:
+
+User → Comic Craft Interface → Comic Editor → Save/Export
+
+The user enters the application, creates a comic using the editor, adds characters and dialogue, and then saves or exports the completed comic.
+
+
+---
+
+3. Main Screens
+
+For a small Comic Craft project, the system can contain only a few main screens:
+
+Home Page
+
+Comic Craft title/logo
+
+Short introduction
+
+Create Comic button
+
+My Comics button
+
+
+Comic Creation Page
+
+Comic title
+
+Select template/layout
+
+Start creating the comic
+
+
+Comic Editor
+
+The main working area where users can:
+
+Add panels
+
+Add characters
+
+Add backgrounds
+
+Add speech bubbles
+
+Add text
+
+Move and resize elements
+
+Save the comic
+
+
+My Comics
+
+Shows previously saved comics.
+
+Preview/Export
+
+Allows the user to view the finished comic and download it.
+
+
+---
+
+4. User Interface Design
+
+The interface should be simple and beginner-friendly.
+
+A basic editor layout could be:
+
+Left side:
+Characters | Backgrounds | Speech Bubbles
+
+Center:
+Comic canvas/panels
+
+Right side:
+Editing options
+
+Bottom:
+Save | Preview | Export
+
+The design should avoid unnecessary buttons and complicated menus.
+
+
+---
+
+5. Comic Layout Design
+
+A simple comic could contain 3–6 panels.
+
+Example:
+
+Panel 1	Panel 2
+
+Character + Background	Character + Dialogue
+Panel 3	Panel 4
+
+
+Users can add characters and speech bubbles to each panel.
+
+
+---
+
+6. Basic Database Design
+
+Since this is a small project, only a few tables may be required.
+
+User
+
+User ID
+
+Name
+
+Email
+
+Password
+
+
+Comic
+
+Comic ID
+
+User ID
+
+Comic Title
+
+Comic Content
+
+Created Date
+
+
+If separate storage is needed:
+
+Assets
+
+Asset ID
+
+Asset Name
+
+Asset Type
+
+File Path
+
+
+This is sufficient for a basic version.
+
+
+---
+
+7. Technology Design
+
+A simple technology stack could be:
+
+Frontend:
+
+HTML
+
+CSS
+
+JavaScript
+
+
+Backend:
+
+PHP / Node.js / Python
+
+
+Database:
+
+MySQL
+
+
+Design/Prototype:
+
+Figma or simple wireframes
+
+
+The exact technology can depend on what is being taught or required for the project.
+
+
+---
+
+8. Basic User Flow
+
+Open Comic Craft
+↓
+Create Comic
+↓
+Choose Layout
+↓
+Add Characters & Backgrounds
+↓
+Add Dialogue/Text
+↓
+Edit Panels
+↓
+Preview Comic
+↓
+Save / Export
+
+
+---
+
+9. Design Deliverables
+
+At the end of the Project Design Phase, you can prepare:
+
+Simple system design
+
+Main screen designs
+
+Comic editor layout
+
+Basic database design
+
+User flow diagram
+
+Simple prototype/wireframe
+
+
+Final Outcome
+
+The Comic Craft Project Design Phase creates a simple blueprint for the application. It defines how the screens will look, how users will move through the system, and how the comic creation process will work before actual development begins.Project Design Phase Phase*Project Design Phase Phase*Project Design Phase Phase*Project Design Phase Phase*Project Design Phase Phase*Comic Craft – Project Design Phase
+
+Since Comic Craft is a small project, the design phase can be kept simple and focused on the main features rather than including complex systems.
+
+1. Purpose of the Design Phase
+
+The Project Design Phase converts the requirements identified earlier into a simple design for how Comic Craft will look and work.
+
+The main goals are to:
+
+Design the basic user interface.
+
+Decide the main screens.
+
+Plan how users create comics.
+
+Decide how comic elements are arranged.
+
+Choose the basic technology and database structure.
+
+Create a simple prototype or wireframe.
+
+
+
+---
+
+2. Basic System Design
+
+Comic Craft can have a simple structure:
+
+User → Comic Craft Interface → Comic Editor → Save/Export
+
+The user enters the application, creates a comic using the editor, adds characters and dialogue, and then saves or exports the completed comic.
+
+
+---
+
+3. Main Screens
+
+For a small Comic Craft project, the system can contain only a few main screens:
+
+Home Page
+
+Comic Craft title/logo
+
+Short introduction
+
+Create Comic button
+
+My Comics button
+
+
+Comic Creation Page
+
+Comic title
+
+Select template/layout
+
+Start creating the comic
+
+
+Comic Editor
+
+The main working area where users can:
+
+Add panels
+
+Add characters
+
+Add backgrounds
+
+Add speech bubbles
+
+Add text
+
+Move and resize elements
+
+Save the comic
+
+
+My Comics
+
+Shows previously saved comics.
+
+Preview/Export
+
+Allows the user to view the finished comic and download it.
+
+
+---
+
+4. User Interface Design
+
+The interface should be simple and beginner-friendly.
+
+A basic editor layout could be:
+
+Left side:
+Characters | Backgrounds | Speech Bubbles
+
+Center:
+Comic canvas/panels
+
+Right side:
+Editing options
+
+Bottom:
+Save | Preview | Export
+
+The design should avoid unnecessary buttons and complicated menus.
+
+
+---
+
+5. Comic Layout Design
+
+A simple comic could contain 3–6 panels.
+
+Example:
+
+Panel 1	Panel 2
+
+Character + Background	Character + Dialogue
+Panel 3	Panel 4
+
+
+Users can add characters and speech bubbles to each panel.
+
+
+---
+
+6. Basic Database Design
+
+Since this is a small project, only a few tables may be required.
+
+User
+
+User ID
+
+Name
+
+Email
+
+Password
+
+
+Comic
+
+Comic ID
+
+User ID
+
+Comic Title
+
+Comic Content
+
+Created Date
+
+
+If separate storage is needed:
+
+Assets
+
+Asset ID
+
+Asset Name
+
+Asset Type
+
+File Path
+
+
+This is sufficient for a basic version.
+
+
+---
+
+7. Technology Design
+
+A simple technology stack could be:
+
+Frontend:
+
+HTML
+
+CSS
+
+JavaScript
+
+
+Backend:
+
+PHP / Node.js / Python
+
+
+Database:
+
+MySQL
+
+
+Design/Prototype:
+
+Figma or simple wireframes
+
+
+The exact technology can depend on what is being taught or required for the project.
+
+
+---
+
+8. Basic User Flow
+
+Open Comic Craft
+↓
+Create Comic
+↓
+Choose Layout
+↓
+Add Characters & Backgrounds
+↓
+Add Dialogue/Text
+↓
+Edit Panels
+↓
+Preview Comic
+↓
+Save / Export
+
+
+---
+
+9. Design Deliverables
+
+At the end of the Project Design Phase, you can prepare:
+
+Simple system design
+
+Main screen designs
+
+Comic editor layout
+
+Basic database design
+
+User flow diagram
+
+Simple prototype/wireframe
+
+
+Final Outcome
+
+The Comic Craft Project Design Phase creates a simple blueprint for the application. It defines how the screens will look, how users will move through the system, and how the comic creation process will work before actual development begins.
