@@ -1,1 +1,128 @@
 
+Comic Craft – Testing Phase
+
+Since Comic Craft is a small project, the Testing Phase focuses on checking whether the main features work correctly and whether users can create comics without errors.
+
+1. Purpose
+
+The purpose of testing is to find and fix errors before the final application is delivered.
+
+2. Main Testing Activities
+
+1. Login Testing
+
+Check whether:
+
+Users can log in correctly.
+
+Incorrect details are rejected.
+
+Logout works properly.
+
+
+2. Comic Creation Testing
+
+Check whether users can:
+
+Create a new comic.
+
+Enter a comic title.
+
+Select a layout.
+
+Add and remove panels.
+
+
+3. Editor Testing
+
+Test the main comic editor:
+
+Add characters.
+
+Add backgrounds.
+
+Add speech bubbles.
+
+Enter text.
+
+Move elements.
+
+Resize elements.
+
+Delete elements.
+
+
+4. Save Testing
+
+Check whether:
+
+Comics can be saved.
+
+Saved comics appear in My Comics.
+
+Saved comics can be opened again.
+
+Changes are stored correctly.
+
+
+5. Preview/Export Testing
+
+Check whether:
+
+The completed comic displays correctly.
+
+Panels appear in the correct order.
+
+Characters and text are positioned correctly.
+
+Export/download works if included.
+
+
+3. Types of Testing
+
+Functional Testing:
+Checks whether each feature works according to the requirements.
+
+Usability Testing:
+Checks whether the interface is easy for users to understand and use.
+
+Compatibility Testing:
+Checks the application on different browsers or devices.
+
+Performance Testing:
+Checks whether the application responds reasonably quickly.
+
+Error Testing:
+Checks how the system behaves when users enter incorrect or incomplete information.
+
+4. Sample Test Cases
+
+Test	Expected Result
+
+Create new comic	Comic editor opens
+Add character	Character appears on the panel
+Add background	Background appears correctly
+Add speech bubble	Bubble appears in the panel
+Save comic	Comic is saved successfully
+Open saved comic	Saved content loads correctly
+Preview comic	Complete comic is displayed
+Delete element	Selected element is removed
+
+
+5. Bug Fixing
+
+When an error is found:
+
+Identify Bug → Record Bug → Find Cause → Fix Bug → Test Again
+
+For example, if a character disappears after saving, the development team identifies the problem, fixes the saving function, and tests it again.
+
+6. Final Testing
+
+After fixing the identified problems, the complete Comic Craft application is tested from beginning to end:
+
+Login → Create Comic → Add Elements → Save → Open → Preview → Export
+
+7. Expected Outcome
+
+At the end of the Testing Phase, the major features of Comic Craft should work correctly, important errors should be fixed, and the application should be ready for the final implementation/deployment phase.
