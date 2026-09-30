@@ -1,1 +1,143 @@
 
+Comic Craft – Project Demonstration Phase
+
+Since Comic Craft is a small project, the Project Demonstration Phase is where the completed application is presented to the teacher, evaluator, client, or project team to show how it works.
+
+1. Purpose
+
+The main purpose is to demonstrate the working features of Comic Craft and explain how the project meets its requirements.
+
+2. Demonstration Activities
+
+1. Introduce the Project
+
+Briefly explain:
+
+Project name: Comic Craft
+
+Purpose of the project
+
+Problem it solves
+
+Main features
+
+
+2. Explain the User Interface
+
+Show the main screens:
+
+Home page
+
+Comic creation page
+
+Comic editor
+
+My Comics
+
+Preview/export page
+
+
+3. Demonstrate Comic Creation
+
+Show the complete process:
+
+Open Comic Craft
+↓
+Create New Comic
+↓
+Choose Layout
+↓
+Add Characters
+↓
+Add Background
+↓
+Add Speech Bubbles & Dialogue
+↓
+Edit the Comic
+↓
+Save the Comic
+↓
+Preview the Final Comic
+
+4. Demonstrate Main Features
+
+During the demonstration, show that users can:
+
+Create a comic.
+
+Add and remove panels.
+
+Add characters.
+
+Add backgrounds.
+
+Add dialogue.
+
+Edit comic elements.
+
+Save their work.
+
+Open a saved comic.
+
+Preview the completed comic.
+
+Export/download it, if included.
+
+
+5. Explain the Technology
+
+Briefly mention the technologies used to develop Comic Craft, such as:
+
+Frontend
+
+Backend
+
+Database
+
+Development tools
+
+
+There is no need to explain complicated technical details unless specifically asked.
+
+6. Show Testing Results
+
+Explain that the main features were tested and demonstrate a few successful test cases.
+
+For example:
+
+Feature	Result
+
+Create Comic	Passed
+Add Character	Passed
+Add Background	Passed
+Add Dialogue	Passed
+Save Comic	Passed
+Preview Comic	Passed
+
+
+7. Answer Questions
+
+After the demonstration, be prepared to answer questions such as:
+
+Why did you choose Comic Craft?
+
+Who are the target users?
+
+What technologies did you use?
+
+What are the main features?
+
+What problems did you face?
+
+How did you test the system?
+
+What improvements could be added in the future?
+
+
+8. Expected Outcome
+
+At the end of the Project Demonstration Phase, the evaluator should be able to understand the purpose of Comic Craft and see that the main features are working as intended.
+
+Demonstration Flow
+
+Project Introduction → Objectives → UI Overview → Live Comic Creation → Feature Demonstration → Testing Results → Technology Explanation → Questions & Answers → Final Conclusion
