@@ -1,1 +1,166 @@
+Comic Craft – Project Documentation Phase
 
+Since Comic Craft is a small project, the documentation phase focuses on recording the important information about the project in a clear and simple way.
+
+1. Purpose
+
+The purpose of this phase is to prepare a complete record of how Comic Craft was planned, designed, developed, and tested.
+
+2. Main Documentation Activities
+
+1. Project Introduction
+
+Document:
+
+Project title: Comic Craft
+
+Purpose of the project
+
+Problem being solved
+
+Main objectives
+
+Target users
+
+
+2. Requirement Documentation
+
+Record the main requirements, such as:
+
+Creating comics
+
+Adding panels
+
+Adding characters and backgrounds
+
+Adding speech bubbles
+
+Saving comics
+
+Previewing completed comics
+
+
+3. Design Documentation
+
+Include:
+
+Basic system design
+
+User flow
+
+Screen designs
+
+Comic editor layout
+
+Basic database design
+
+
+4. Development Documentation
+
+Explain how Comic Craft was developed, including:
+
+Technologies used
+
+Main features developed
+
+Database implementation
+
+Important development steps
+
+
+5. Testing Documentation
+
+Record:
+
+Testing methods
+
+Test cases
+
+Errors found
+
+Fixes made
+
+Final testing results
+
+
+6. User Guide
+
+Prepare simple instructions explaining how to use Comic Craft.
+
+Example:
+
+Step 1: Open Comic Craft.
+Step 2: Select Create Comic.
+Step 3: Choose a layout.
+Step 4: Add characters and backgrounds.
+Step 5: Add dialogue using speech bubbles.
+Step 6: Save the comic.
+Step 7: Preview or export the finished comic.
+
+7. Screenshots
+
+Add screenshots of important parts of the application, such as:
+
+Home page
+
+Comic creation page
+
+Comic editor
+
+Character selection
+
+Completed comic
+
+Preview/export page
+
+
+8. Final Project Report
+
+The final report can contain:
+
+1. Introduction
+
+
+2. Problem Statement
+
+
+3. Objectives
+
+
+4. Requirement Analysis
+
+
+5. Project Design
+
+
+6. Project Planning
+
+
+7. Development
+
+
+8. Testing
+
+
+9. Results
+
+
+10. Conclusion
+
+
+11. Future Enhancements
+
+
+12. References
+
+
+
+3. Expected Outcome
+
+At the end of the Project Documentation Phase, all important information about Comic Craft should be organized into a clear project report and user guide.
+
+Documentation Flow:
+
+Collect Project Information → Document Requirements → Document Design → Document Development → Document Testing → Add Screenshots → Prepare User Guide → Final Project Report
+
+This documentation provides a complete record of the Comic Craft project and can be submitted along with the final application.
